@@ -1,4 +1,4 @@
-# Introduction to Civic Tech
+# Intro to Civic Tech
 
 ## Table of Contents
 
