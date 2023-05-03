@@ -1,3 +1,7 @@
+*this document is a work in progress*
+
+*yes, much of it was written with the help of generative AI*
+
 # Intro to Civic Tech
 
 ## Table of Contents
