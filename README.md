@@ -1,4 +1,4 @@
-*this document is a work in progress*
+*this document is a work in progress. It was created as a first draft at a project/documentation to support [Open San Diego](https://opensandiego.org/)'s efforts*
 
 *yes, much of it was written with the help of generative AI*
 
